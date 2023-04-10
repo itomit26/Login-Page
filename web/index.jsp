@@ -86,7 +86,7 @@
                     <div class="card">
                         <img src="css/img/carou-1.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
-                            <h3 class="card-title">A<h3>Alternative</h5>
+                            <h3 class="card-title">A<h3>Alternative</h3>
                             <p class="card-text">In a state of ever-growing and rapidly evolving market for information technology and system integration, recognizing the need of an individual and a company that can offer high quality and take the lead on the market. </p>
                             <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
                         </div>
